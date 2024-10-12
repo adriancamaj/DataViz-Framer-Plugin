@@ -4,7 +4,7 @@
 
 The **Interactive Data Visualization Plugin** allows designers and developers to effortlessly integrate customizable and interactive charts into their Framer projects using Chart.js. Enhance your prototypes with dynamic data visualizations that can be tailored to fit any design aesthetic or user experience requirement.
 
-![Plugin Preview](assets/plugin-preview.png) <!-- Add an image preview of your plugin here -->
+ <!-- ![Plugin Preview](assets/plugin-preview.png) Add an image preview of your plugin here -->
 
 ## **Features**
 
