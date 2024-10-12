@@ -1,0 +1,14 @@
+{
+  "name": "Data Visualization Plugin",
+  "version": "1.0.0",
+  "description": "A plugin for adding interactive charts in Framer.",
+  "author": "Your Name",
+  "components": [
+    {
+      "name": "ChartComponent",
+      "displayName": "Chart Component",
+      "importPath": "./",
+      "type": "react"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  // ...
+  "scripts": {
+    "build": "babel src --out-dir build --copy-files"
+  }
+  // ...
+}
