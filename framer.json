@@ -2,12 +2,12 @@
   "name": "Data Visualization Plugin",
   "version": "1.0.0",
   "description": "A plugin for adding interactive charts in Framer.",
-  "author": "Your Name",
+  "author": "Sharkware.io",
   "components": [
     {
       "name": "ChartComponent",
       "displayName": "Chart Component",
-      "importPath": "./",
+      "importPath": "./build/ChartComponent",
       "type": "react"
     }
   ]
