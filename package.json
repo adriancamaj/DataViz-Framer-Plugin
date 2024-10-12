@@ -1,7 +1,20 @@
 {
-  // ...
+  "name": "DataViz-Framer-Plugin",
+  "version": "1.0.0",
+  "description": "A plugin for adding interactive charts in Framer.",
+  "main": "index.js",
+  "author": "Sharkware.io",
+  "license": "MIT",
   "scripts": {
     "build": "babel src --out-dir build --copy-files"
+  },
+  "dependencies": {
+    "chart.js": "^4.3.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "@babel/preset-react": "^7.22.5"
   }
-  // ...
 }
